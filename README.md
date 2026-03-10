@@ -19,7 +19,7 @@ cd port-scanner
 pip install -r requirements.txt
 
 ## Usage
-python3 scanner.py -t 192.168.1.1 -p 1-1000 -T 100 -o results.txt
+python3 Scanner1.py -t 192.168.1.1 -p 1-1000 -T 100 -o results.txt
 
 ## Arguments
 | Argument | Description | Example |
